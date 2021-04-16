@@ -1,0 +1,10 @@
+D:\TEMP\COOLYEA\PBO\praktikum\Modul3Prakt\Modul3Prakt\bin\Debug\Modul3Prakt.exe.config
+D:\TEMP\COOLYEA\PBO\praktikum\Modul3Prakt\Modul3Prakt\bin\Debug\Modul3Prakt.exe
+D:\TEMP\COOLYEA\PBO\praktikum\Modul3Prakt\Modul3Prakt\bin\Debug\Modul3Prakt.pdb
+D:\TEMP\COOLYEA\PBO\praktikum\Modul3Prakt\Modul3Prakt\obj\Debug\Modul3Prakt.csprojAssemblyReference.cache
+D:\TEMP\COOLYEA\PBO\praktikum\Modul3Prakt\Modul3Prakt\obj\Debug\Modul3Prakt.Properties.Resources.resources
+D:\TEMP\COOLYEA\PBO\praktikum\Modul3Prakt\Modul3Prakt\obj\Debug\Modul3Prakt.csproj.GenerateResource.cache
+D:\TEMP\COOLYEA\PBO\praktikum\Modul3Prakt\Modul3Prakt\obj\Debug\Modul3Prakt.csproj.CoreCompileInputs.cache
+D:\TEMP\COOLYEA\PBO\praktikum\Modul3Prakt\Modul3Prakt\obj\Debug\Modul3Prakt.exe
+D:\TEMP\COOLYEA\PBO\praktikum\Modul3Prakt\Modul3Prakt\obj\Debug\Modul3Prakt.pdb
+D:\TEMP\COOLYEA\PBO\praktikum\Modul3Prakt\Modul3Prakt\obj\Debug\Modul3Prakt.Form1.resources
